@@ -2,3 +2,10 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: crimson
 }
+
+header{
+    text-align: center;
+    background-color: lightcoral;
+    box-sizing: border-box;
+    padding: 15px;
+    }
