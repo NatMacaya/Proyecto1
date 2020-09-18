@@ -1,6 +1,8 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: crimson
+    background: rgb(2,0,36);
+    background: linear-gradient(150deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    height: 900px;
 }
 
 header{
@@ -14,4 +16,12 @@ header{
 
 section{
     color: whitesmoke;
+    margin: 15px auto;
+    padding: 20px;
+    width: 1080px;
     }
+h2{
+    font-style: oblique;
+    text-
+
+}
