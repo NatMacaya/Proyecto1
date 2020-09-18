@@ -1,11 +1,17 @@
-#body{
+body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: crimson
 }
 
 header{
-    text-align: justify;
+    text-align: center;
     background-color: lightcoral;
-    box-sizing: border-box;
+    border: 4px dashed rgb(250, 206, 206);
+    border-radius: 60px;
     padding: 15px;
+    margin: 20px 350px 20px 340px ;
+    }
+
+section{
+    color: whitesmoke;
     }
