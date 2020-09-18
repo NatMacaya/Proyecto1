@@ -7,12 +7,16 @@ body{
 
 header{
     text-align: center;
-    background-color: lightcoral;
-    border: 4px dashed rgb(250, 206, 206);
     border-radius: 60px;
+    border: 1px solid whitesmoke;
     padding: 15px;
     margin: 20px 350px 20px 340px ;
+    background: transparent;
     }
+header:hover{
+    background-color: floralwhite;
+    transition: 3s ease 0.8s;
+}
 p{
     background: transparent;
     display: inline-table;
@@ -24,19 +28,18 @@ p{
     border-right: 1px solid black;*/
     border-bottom: 1px solid black;
     border-radius: 10px;
+    font-size: 12px;
 }
 p:hover{
     transform: scale(1.5);
     transition: 1s ease 0.3s;
 }
-section{
-    color: whitesmoke;
-    margin: 15px auto;
-    padding: 20px;
-    width: 1080px;
-    }
+
 h2{
     font-style: oblique;
+    padding: 5px;
+    color: whitesmoke;
+    margin: 10px;
 
 
 }
