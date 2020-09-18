@@ -1,6 +1,4 @@
-body{
+#body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: crimson
 }
-section{
-background-color: crimson;
-    }
