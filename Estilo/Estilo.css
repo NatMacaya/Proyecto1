@@ -41,7 +41,13 @@ h2{
     padding-left: 1200px;
     text-align: left;
     background-color: rgba(245, 245, 245, 0.336)
+}
 
-
-
+article{
+    text-align: center;
+    border-radius: 60px;
+    color: white;
+    padding: 15px;
+    margin: 20px 350px 20px 340px ;
+    background:  orangered;
 }
