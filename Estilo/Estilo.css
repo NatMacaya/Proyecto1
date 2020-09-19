@@ -42,12 +42,19 @@ h2{
     text-align: left;
     background-color: rgba(245, 245, 245, 0.336)
 }
+<<<<<<< HEAD
 article{
-    text-aling:center;
-    color: rgba(255, 68, 0, 0.678)
-    border-radius: 60px;
-    padding: 15px;
-    margin: 20px 350px 20px 340px ;
-    background: transparent;
+    
     
 }
+=======
+
+article{
+    text-align: center;
+    border-radius: 60px;
+    color: white;
+    padding: 15px;
+    margin: 20px 350px 20px 340px ;
+    background:  orangered;
+}
+>>>>>>> styling
